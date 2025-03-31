@@ -6,6 +6,8 @@
     background-color: #fff;
     background-image: url('../images/background_menu.svg');
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .menu__title {
@@ -15,6 +17,7 @@
     font-weight: 500; 
      font-size: 44px; 
     line-height: 52px;
+    max-width: 780px;
 }
 
 .menu__subtitle {
