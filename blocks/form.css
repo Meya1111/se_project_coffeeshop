@@ -30,6 +30,11 @@
   color: #fff;
   cursor: pointer;
   transition: background-color 0.5s;
+  font-weight: 500;
+  font-family: Inter, Arial,sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .form__button:hover {
